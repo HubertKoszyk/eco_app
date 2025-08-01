@@ -30,7 +30,7 @@ A few of the things you can do with Eco Check:
 * Get a map with Air Quality in Poland
 * Talk with AI that recognizes plants
 
-
+<h2>YOU MUST ADD YOUR GEMINI API KEY IN FILE LIB/MAIN.DART</h2>
 
 ## Feedback
 
